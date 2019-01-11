@@ -12,22 +12,40 @@
             "level": {
                 "3": [
                     {
-                        "featuretextwithbullet": "Invoke Spirit: "
+                        "featuretextwithbullet": {
+                            "combinestrings": [
+                                "Invoke Spirit: When you hit with an unarmed strike, you can expend 1 ki to activate one of the following effects:",
+                                "",
+                                "\nBurning Soul: The unarmed strike deals fire damage, and you roll one additional martial arts die when determining the damage of this attack.",
+                                "",
+                                "\nDraining Soul: The unarmed strike deals necrotic damage, and you gain temporary hit points equal to your Wisdom modifier plus half of your monk level (rounded up).",
+                                "",
+                                "\nWarding Soul: The unarmed strike deals radiant damage, and the target must make a Strength saving throw. On a failed saving throw, the target is moved a number of feet equal to your monk level (rounded up) away from you in a straight line.",
+                                "",
+                                "\n You cannot activate two different effects on the same turn, but you can activate the same effect multiple times on same turn for each unarmed strike."
+                            ]
+                        }
                     }
                 ],
                 "6": [
                     {
-                        "featuretextwithbullet": "Spirit Blasts: "
+                        "featuretextwithbullet": {
+                            "combinestrings": [
+                                "Spirit Blasts: Immediately after you take the Attack action on your turn, you can spend 3 ki points to cast the 2nd level spell scorching ray as a bonus action. Each ray deals your choice of fire, radiant, or necrotic damage.",
+                                "",
+                                "\nYou can spend additional ki points to cast scorching ray at a higher level. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (3 plus any additional points) that you can spend on the spell equals half your monk level (rounded down)."
+                            ]
+                        }
                     }
                 ],
                 "11": [
                     {
-                        "featuretextwithbullet": "Emboldened Spirit: "
+                        "featuretextwithbullet": "Emboldened Spirit: Choose one damage type from fire, radiant, or necrotic when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Additionally, your hit point maximum cannot be reduced, and you have advantage on saving throws against being possessed."
                     }
                 ],
                 "17": [
                     {
-                        "featuretextwithbullet": "Invoke Soul: "
+                        "featuretextwithbullet": "Invoke Soul: When you use Invoke Spirit, you may activate two effects at once instead of just one, for 1 ki point. You choose which of the two you use for the damage type of the unarmed strike."
                     }
                 ]
             }
