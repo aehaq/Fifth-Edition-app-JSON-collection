@@ -1,0 +1,40 @@
+{
+    "backgrounds": [],
+    "races": [],
+    "subraces": [],
+    "classes": [],
+    "archetypes": [
+        {
+            "name": "Way of the Burning Soul",
+            "displayname": "Way of the Burning Soul",
+            "class": "Monk",
+            "previewtext": "Manifest your soul as Burning Energy",
+            "level": {
+                "3": [
+                    {
+                        "featuretextwithbullet": "Invoke Spirit: "
+                    }
+                ],
+                "6": [
+                    {
+                        "featuretextwithbullet": "Spirit Blasts: "
+                    }
+                ],
+                "11": [
+                    {
+                        "featuretextwithbullet": "Emboldened Spirit: "
+                    }
+                ],
+                "17": [
+                    {
+                        "featuretextwithbullet": "Invoke Soul: "
+                    }
+                ]
+            }
+        }
+    ],
+    "sharedclassfeatures": [],
+    "sharedclassfeaturemenus": [],
+    "feats": [],
+    "weapons": []
+}
